@@ -1,0 +1,12 @@
+x_origin = 0
+y_origin = 0
+sprite_width = 0
+sprite_height = 0
+canvas_cutting = False
+naming_convention = "spr_snake_case"
+toggle_overwrite_size = False
+toggle_overwrite_origin = False
+relative_origin = None
+yyp_file = None
+current_image_frame_width = 0
+current_image_frame_height = 0
