@@ -8,7 +8,7 @@ This Python application facilitates batch importing of PNG's and GIF's into the 
 - **Batch Import:** Import multiple GIFs/PNGs into GameMaker.
 - **Sprite Sheets:** Convert GIFs to sprite sheets automatically.
 - **Customization:** Set sprite origins, sizes, and naming conventions.
-- **GameMaker Integration:** Update .yyp project files automatically.
+- **GameMaker Integration:** Update .yyp project files on import.
 
 ## Requirements
 - Python 3.6+
