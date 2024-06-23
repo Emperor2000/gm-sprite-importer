@@ -3,6 +3,8 @@ from typing import Tuple
 def calc_relative_origin(image_width: int, image_height: int, relative_origin: str) -> Tuple[int, int]:
     origin_x = 0
     origin_y = 0
+    image_width = int(image_width)
+    image_height = int(image_height)
 
     match relative_origin:
         # case "Disabled":
